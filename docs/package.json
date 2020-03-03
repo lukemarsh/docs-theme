@@ -8,7 +8,7 @@
     "now-build": "npm run build"
   },
   "dependencies": {
-    "@lukes-design-system/css": "../css",
+    "@lukes-design-system/css": "^0.0.1",
     "@lukes-design-system/docs-theme": "*",
     "gatsby": "^2.19.24",
     "gatsby-plugin-sass": "^2.1.0",
