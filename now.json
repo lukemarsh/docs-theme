@@ -13,7 +13,8 @@
     "env": {
       "GATSBY_ALGOLIA_APP_ID": "@gatsby_algolia_app_id",
       "GATSBY_ALGOLIA_SEARCH_KEY": "@gatsby_algolia_search_key",
-      "ALGOLIA_ADMIN_KEY": "@algolia_admin_key"
+      "ALGOLIA_ADMIN_KEY": "@algolia_admin_key",
+      "ALGOLIA_INDEX_NAME": "@algolia_index_name"
     }
   },
   "routes": [
