@@ -1,0 +1,30 @@
+{
+  "name": "@lukes-design-system/docs-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "algoliasearch": "^4.0.3",
+    "classnames": "^2.2.6",
+    "dotenv": "^8.2.0",
+    "downshift": "^5.0.3",
+    "gatsby": "^2.19.24",
+    "gatsby-plugin-algolia": "^0.5.0",
+    "gatsby-plugin-env-variables": "^1.0.1",
+    "gatsby-source-filesystem": "^2.1.48",
+    "gatsby-transformer-remark": "^2.6.53",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-instantsearch-dom": "^6.3.0",
+    "react-measure": "^2.3.0"
+  },
+  "devDependencies": {
+    "gatsby": "^2.19.24",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.19.24",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}

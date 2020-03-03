@@ -1,0 +1,17 @@
+.HitsWrapper {
+  max-height: 70vh;
+  overflow: scroll;
+  z-index: 2;
+  -webkit-overflow-scrolling: touch;
+  min-width: 300px;
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    list-style: none;
+  }
+  li {
+    cursor: pointer;
+  }
+}
